@@ -1,0 +1,26 @@
+[
+  { "name": "Type: Bug", "color": "#d73a4a" },
+  { "name": "Type: Feature", "color": "#a2eeef" },
+  { "name": "Type: Enhancement", "color": "#6f42c1" },
+  { "name": "Type: Documentation", "color": "#0075ca" },
+  { "name": "Type: Maintenance", "color": "#fbca04" },
+  { "name": "Type: Question", "color": "#cc317c" },
+  { "name": "Status: In Progress", "color": "#ffeecc" },
+  { "name": "Status: Review Needed", "color": "#fbca04" },
+  { "name": "Status: Approved", "color": "#2cbe4e" },
+  { "name": "Status: Pending", "color": "#fef2c0" },
+  { "name": "Effort: Low", "color": "#c2e0c6" },
+  { "name": "Effort: Medium", "color": "#84a98c" },
+  { "name": "Effort: High", "color": "#e11d21" },
+  { "name": "Priority: Low", "color": "#bfdadc" },
+  { "name": "Priority: Medium", "color": "#66c2a5" },
+  { "name": "Priority: High", "color": "#3288bd" },
+  { "name": "Help Wanted", "color": "#ffcb42" },
+  { "name": "Good First Issue", "color": "#6b6b6b" },
+  { "name": "Discussion", "color": "#c7def8" },
+  { "name": "Question", "color": "#d4c5f9" },
+  { "name": "Duplicate", "color": "#cfd3d7" },
+  { "name": "Invalid", "color": "#e4e669" },
+  { "name": "Won't Fix", "color": "#ffdfdd" }
+]
+
