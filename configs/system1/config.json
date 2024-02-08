@@ -1,0 +1,30 @@
+{
+  "name": "John Doe",
+  "admin": true,
+  "bio": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+  "object": {
+    "name": "placeholder",
+    "age": 15,
+    "objectb": {
+      "name": "a"
+    }
+  },
+  "testarray": [
+    1,
+    null,
+    "test"
+  ],
+  "extraField": "This is an extra field.",
+  "testobject": {
+    "asd": "value1",
+    "pao": "value2",
+    "test": "placeholder",
+    "a": "placeholder",
+    "b": {
+      "t": [
+        "a",
+        "placeholder"
+      ]
+    }
+  }
+}
